@@ -1,0 +1,23 @@
+
+body {
+    background-color: #202020;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+
+.cartao {
+    background-color: #333;
+    padding: 30px;
+    margin: 100px auto;
+    width: 300px;
+    border-radius: 15px;
+}
+
+button {
+    background-color: #007acc;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
